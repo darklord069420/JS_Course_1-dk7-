@@ -1,1 +1,1 @@
-# JS_Course_1-dk7-
+# JS Courses by dk7
